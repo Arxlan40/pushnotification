@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478104520396",
+    "firebase_url": "https://pushnot-ae733.firebaseio.com",
+    "project_id": "pushnot-ae733",
+    "storage_bucket": "pushnot-ae733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478104520396:android:1fbddb8b84950d60232469",
+        "android_client_info": {
+          "package_name": "webview.miglioriamoci.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478104520396-q0jtcbsmv3tp3jgq1saevbblb2n8648c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPxKvkSvW_ybaclDbJ2c5dUMKp1Wa8w5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478104520396-q0jtcbsmv3tp3jgq1saevbblb2n8648c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
