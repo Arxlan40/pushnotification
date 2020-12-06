@@ -1,35 +1,78 @@
 {
   "project_info": {
-    "project_number": "478104520396",
-    "firebase_url": "https://pushnot-ae733.firebaseio.com",
-    "project_id": "pushnot-ae733",
-    "storage_bucket": "pushnot-ae733.appspot.com"
+    "project_number": "1091984396167",
+    "firebase_url": "https://vndiaoc-a462a.firebaseio.com",
+    "project_id": "vndiaoc-a462a",
+    "storage_bucket": "vndiaoc-a462a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:478104520396:android:1fbddb8b84950d60232469",
+        "mobilesdk_app_id": "1:1091984396167:android:b334542ad7f3e97d048d22",
         "android_client_info": {
-          "package_name": "webview.miglioriamoci.pushnotification"
+          "package_name": "com.pn.firebasepushnotifcation"
         }
       },
       "oauth_client": [
         {
-          "client_id": "478104520396-q0jtcbsmv3tp3jgq1saevbblb2n8648c.apps.googleusercontent.com",
+          "client_id": "1091984396167-66osqn9gvp61omkd6a0dviq6l2c6rr3o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPxKvkSvW_ybaclDbJ2c5dUMKp1Wa8w5s"
+          "current_key": "AIzaSyAJrQL0yjl2KoKhilWlv0iSoJ_fGQWjh6k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "478104520396-q0jtcbsmv3tp3jgq1saevbblb2n8648c.apps.googleusercontent.com",
+              "client_id": "1091984396167-66osqn9gvp61omkd6a0dviq6l2c6rr3o.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1091984396167-e3eoloe5r5emu7osdat3l2nnaqb0ehq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "webview.housesale.vndiaoc123"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091984396167:android:7b45e80e0c3d64e8048d22",
+        "android_client_info": {
+          "package_name": "webview.food.vndiaoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091984396167-66osqn9gvp61omkd6a0dviq6l2c6rr3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJrQL0yjl2KoKhilWlv0iSoJ_fGQWjh6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091984396167-66osqn9gvp61omkd6a0dviq6l2c6rr3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091984396167-e3eoloe5r5emu7osdat3l2nnaqb0ehq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "webview.housesale.vndiaoc123"
+              }
             }
           ]
         }
